@@ -21,9 +21,6 @@ This end-to-end project consists of:
 
 ## Model Download and Directory Structure
 
-### Pretrained Model:
-You can download the pretrained model from the following link:
-[Brain Tumor Detection Model](https://drive.google.com/file/d/1LJG_ITCWWtriLC5NPrWxIDwekWbhU_Rj/view?usp=sharing)
 
 ### Directory Structure:
 ```
@@ -76,7 +73,7 @@ pip install -r requirements.txt
 
 ### Step 3: Download the Pretrained Model
 
-Download the pretrained model from [this link](https://drive.google.com/file/d/1LJG_ITCWWtriLC5NPrWxIDwekWbhU_Rj/view?usp=sharing) and place it in the `model/` directory as `brain_tumor_model.pth`.
+
 
 ### Step 4: Running the Flask App
 
